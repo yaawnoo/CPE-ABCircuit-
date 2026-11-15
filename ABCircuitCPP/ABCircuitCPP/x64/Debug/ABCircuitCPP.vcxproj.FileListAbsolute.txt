@@ -1,0 +1,4 @@
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\x64\Debug\Ijwhost.dll
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\x64\Debug\ABCircuitCPP.deps.json
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\x64\Debug\ABCircuitCPP.runtimeconfig.json
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\ABCircuitCPP\x64\Debug\ABCircuitCPP.genruntimeconfig.cache

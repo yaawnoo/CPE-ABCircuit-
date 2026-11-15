@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../TicTacToeLauncher/ABCircuitLauncher.csproj">
+    <Platform Solution="Debug|x64" Project="x64" />
+  </Project>
+  <Project Path="ABCircuitCPP.vcxproj" Id="99f0bf7a-117d-d6a7-5905-97106dfd3f21" />
+</Solution>

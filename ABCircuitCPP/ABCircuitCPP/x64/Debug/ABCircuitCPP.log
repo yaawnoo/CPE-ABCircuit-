@@ -1,0 +1,38 @@
+﻿  MyForm.cpp
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2): warning C4642: 'Windows::Win32::Foundation::IHandle': could not import the constraints for generic parameter 'THandle'
+  (compiling source file 'MyForm.cpp')
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::Control' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::ScrollableControl' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::ContainerControl' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::Form' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+  
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2): warning C4642: 'Windows::Win32::Foundation::HandleRef': could not import the constraints for generic parameter 'THandle'
+  (compiling source file 'MyForm.cpp')
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::Control' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::ScrollableControl' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::ContainerControl' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(16,2):
+      This diagnostic occurred while importing type 'System::Windows::Forms::Form' from assembly 'System.Windows.Forms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+  
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(30,4): warning C4642: 'Windows::Win32::Foundation::IPointer': could not import the constraints for generic parameter 'TPointer'
+  (compiling source file 'MyForm.cpp')
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(30,4):
+      This diagnostic occurred while importing type 'System::Drawing::IImage' from assembly 'System.Private.Windows.GdiPlus, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+      C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(30,4):
+      This diagnostic occurred while importing type 'System::Drawing::Image' from assembly 'System.Drawing.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'.
+  
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(264,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\MyForm.h(267,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ABCircuitCPP.vcxproj -> C:\Users\ayanu\Downloads\ABCircuit\ABCircuitCPP\x64\Debug\ABCircuitCPP.dll
