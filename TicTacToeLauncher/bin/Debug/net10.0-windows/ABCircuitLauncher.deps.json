@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ABCircuitLauncher/1.0.0": {
+        "dependencies": {
+          "ABCircuitCPP": "1.0.0"
+        },
+        "runtime": {
+          "ABCircuitLauncher.dll": {}
+        }
+      },
+      "ABCircuitCPP/1.0.0": {
+        "runtime": {
+          "ABCircuitCPP.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABCircuitLauncher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ABCircuitCPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
